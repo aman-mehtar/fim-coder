@@ -21,8 +21,15 @@ freshness preference of +4.6 percentage points that is attributable to the data 
 
 ## Run it
 
-Weights are not in this repo (see [WEIGHTS.md](WEIGHTS.md)). With `fimcoder-113m-q8_0.gguf`
-in the current directory:
+Download a GGUF from
+[Releases](https://github.com/aman-mehtar/fim-coder/releases/latest) — `q8_0` (116 MB) is
+what every benchmark here used:
+
+```bash
+gh release download v0.1.0 -R aman-mehtar/fim-coder -p 'fimcoder-113m-q8_0.gguf'
+```
+
+Then:
 
 ```bash
 ./local/setup_local.sh ./fimcoder-113m-q8_0.gguf
@@ -66,6 +73,11 @@ token metadata. Keep temperature at 0-0.2.
 | `results/` | every measurement as JSON, including the 278-point training curve |
 | `models/` | architecture and tokenizer config (no weights) |
 | `tokenizer/` | the trained 32k tokenizer |
+
+## Licensing
+
+Code is MIT. The weights are a separate matter — trained on `permissive` + `no_license`
+code, where `no_license` means undetected rather than public domain. See `LICENSE`.
 
 ## Notes on the data
 

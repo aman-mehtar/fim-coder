@@ -1,7 +1,13 @@
 # Weights
 
-Not in git. The four formats total ~1.1 GB, GitHub rejects files over 100 MB, and git-lfs
-is not set up here. Every one of them is reproducible from the HF checkpoint.
+Published as **[GitHub Release assets](https://github.com/aman-mehtar/fim-coder/releases/latest)**,
+not committed to git — they total ~700 MB, GitHub rejects files over 100 MB in a repo, and
+release assets do not count against repository size or LFS quota.
+
+```bash
+gh release download v0.1.0 -R aman-mehtar/fim-coder            # everything
+gh release download v0.1.0 -R aman-mehtar/fim-coder -p '*q8_0*' # just the one you want
+```
 
 | format | size | what it is for |
 |---|---|---|
@@ -9,8 +15,10 @@ is not set up here. Every one of them is reproducible from the HF checkpoint.
 | `fimcoder-113m-f16.gguf` | 218 MB | llama.cpp, lossless |
 | `fimcoder-113m-q8_0.gguf` | 116 MB | llama.cpp, what the benchmarks used |
 | `fimcoder-113m-q4_k_m.gguf` | 71 MB | llama.cpp, smallest |
-| `onnx-fp32/` | 436 MB | onnxruntime-genai, KV-cached graph |
-| `onnx-int4/` | 71 MB | onnxruntime-genai, smallest |
+| `fimcoder-113m-onnx-int4.tar.gz` | 71 MB | onnxruntime-genai, KV-cached graph |
+
+`onnx-fp32` (436 MB) is not published; regenerate it with `python3 finish.py onnx` if you
+need full precision.
 
 Checksums for the two GGUFs people actually use are in `local/SHA256SUMS`.
 

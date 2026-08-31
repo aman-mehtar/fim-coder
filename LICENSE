@@ -1,0 +1,36 @@
+MIT License
+
+Copyright (c) 2026 Aman Mehtar
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR OTHER DEALINGS IN THE SOFTWARE.
+
+----------------------------------------------------------------------------
+
+This license covers the CODE in this repository.
+
+The model weights distributed via GitHub Releases are a separate matter. They
+were trained on `HuggingFaceCode/stack-v3-train` filtered to files dated
+2024-01-01 or later. That corpus contains files whose license was detected as
+`permissive` and files where no license was detected (`no_license`);
+`non_permissive` files are excluded upstream by the dataset authors. The
+dataset itself ships under ODC-BY.
+
+`no_license` means no license was detected -- not that the code is public
+domain. The weights are published as-is, with no claim of ownership over
+anything derived from that corpus and no warranty. If that provenance matters
+for your use, do your own diligence.
