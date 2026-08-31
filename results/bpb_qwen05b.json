@@ -1,0 +1,24 @@
+{
+ "model": "Qwen/Qwen2.5-Coder-0.5B",
+ "rows": [
+  {
+   "model": "Qwen2.5-Coder-0.5B",
+   "sample": "fresh.jsonl",
+   "bpb": 0.4091,
+   "bytes": 1158542,
+   "tokens": 300002,
+   "seq": 1024,
+   "secs": 2879
+  },
+  {
+   "model": "Qwen2.5-Coder-0.5B",
+   "sample": "stale.jsonl",
+   "bpb": 0.4108,
+   "bytes": 977457,
+   "tokens": 262062,
+   "seq": 1024,
+   "secs": 2582
+  }
+ ],
+ "gap": 0.0017
+}

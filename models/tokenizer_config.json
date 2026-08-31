@@ -1,0 +1,77 @@
+{
+ "tokenizer_class": "PreTrainedTokenizerFast",
+ "model_max_length": 4096,
+ "clean_up_tokenization_spaces": false,
+ "bos_token": "<|endoftext|>",
+ "eos_token": "<|endoftext|>",
+ "pad_token": "<|fim_pad|>",
+ "unk_token": null,
+ "add_bos_token": false,
+ "add_eos_token": false,
+ "added_tokens_decoder": {
+  "256": {
+   "content": "<|endoftext|>",
+   "lstrip": false,
+   "normalized": false,
+   "rstrip": false,
+   "single_word": false,
+   "special": true
+  },
+  "257": {
+   "content": "<|fim_prefix|>",
+   "lstrip": false,
+   "normalized": false,
+   "rstrip": false,
+   "single_word": false,
+   "special": true
+  },
+  "258": {
+   "content": "<|fim_middle|>",
+   "lstrip": false,
+   "normalized": false,
+   "rstrip": false,
+   "single_word": false,
+   "special": true
+  },
+  "259": {
+   "content": "<|fim_suffix|>",
+   "lstrip": false,
+   "normalized": false,
+   "rstrip": false,
+   "single_word": false,
+   "special": true
+  },
+  "260": {
+   "content": "<|fim_pad|>",
+   "lstrip": false,
+   "normalized": false,
+   "rstrip": false,
+   "single_word": false,
+   "special": true
+  },
+  "261": {
+   "content": "<|repo_name|>",
+   "lstrip": false,
+   "normalized": false,
+   "rstrip": false,
+   "single_word": false,
+   "special": true
+  },
+  "262": {
+   "content": "<|file_sep|>",
+   "lstrip": false,
+   "normalized": false,
+   "rstrip": false,
+   "single_word": false,
+   "special": true
+  }
+ },
+ "extra_special_tokens": {
+  "fim_prefix": "<|fim_prefix|>",
+  "fim_middle": "<|fim_middle|>",
+  "fim_suffix": "<|fim_suffix|>",
+  "fim_pad": "<|fim_pad|>",
+  "repo_name": "<|repo_name|>",
+  "file_sep": "<|file_sep|>"
+ }
+}

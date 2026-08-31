@@ -1,0 +1,34 @@
+{
+ "n_docs": 1500,
+ "seq": 1024,
+ "models": {
+  "fimcoder-113m": {
+   "fresh": {
+    "bpb": 0.5413,
+    "bytes": 5390089,
+    "secs": 58
+   },
+   "stale": {
+    "bpb": 0.6412,
+    "bytes": 5099667,
+    "secs": 56
+   },
+   "gap": 0.0999,
+   "rel_gap_pct": 15.58
+  },
+  "Qwen2.5-Coder-0.5B": {
+   "fresh": {
+    "bpb": 0.355,
+    "bytes": 5390089,
+    "secs": 102
+   },
+   "stale": {
+    "bpb": 0.3989,
+    "bytes": 5099667,
+    "secs": 98
+   },
+   "gap": 0.0439,
+   "rel_gap_pct": 11.01
+  }
+ }
+}

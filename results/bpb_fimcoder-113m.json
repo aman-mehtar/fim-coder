@@ -1,0 +1,24 @@
+{
+ "model": "out/fimcoder-113m/hf",
+ "rows": [
+  {
+   "model": "hf",
+   "sample": "fresh.jsonl",
+   "bpb": 0.6084,
+   "bytes": 1158542,
+   "tokens": 343643,
+   "seq": 1024,
+   "secs": 836
+  },
+  {
+   "model": "hf",
+   "sample": "stale.jsonl",
+   "bpb": 0.6666,
+   "bytes": 977457,
+   "tokens": 302454,
+   "seq": 1024,
+   "secs": 716
+  }
+ ],
+ "gap": 0.0582
+}

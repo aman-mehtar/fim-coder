@@ -1,0 +1,36 @@
+# Weights and datasets: ~1.1 GB, over GitHub's 100 MB file cap, and all reproducible.
+# See WEIGHTS.md.
+out/
+*.gguf
+*.onnx
+*.onnx.data
+*.safetensors
+*.pt
+
+# scratch
+.venv/
+__pycache__/
+*.pyc
+tokenizer_v1_skewed/
+fimcoder-local.tar.gz
+.fimcoder_token
+skills-lock.json
+prep_data.py
+
+# third-party skill bundle, not ours to redistribute
+.agents/
+.claude/
+
+# throwaway validation checkpoint's eval
+eval_V-phase-ckpt-export.json
+
+# canonical copies live in results/
+/eval_fimcoder-113m.json
+/freshness.json
+/result_fimcoder-113m.json
+/probe_stats.json
+/data_meta_2048.json
+/data_meta_4096.json
+/spend.json
+/tokenizer_report.json
+validate_result.json

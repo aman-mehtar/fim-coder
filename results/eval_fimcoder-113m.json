@@ -1,0 +1,1765 @@
+{
+ "tag": "fimcoder-113m",
+ "gpu": "NVIDIA L4",
+ "fim": {
+  "repo_fim": {
+   "n": 656,
+   "em": 0.021341463414634148,
+   "em_strip": 0.022865853658536585,
+   "sim": 0.26287120010466114
+  },
+  "repo_fim|GraphQL": {
+   "n": 9,
+   "em": 0.1111111111111111,
+   "em_strip": 0.1111111111111111,
+   "sim": 0.47671612693677035
+  },
+  "all": {
+   "n": 1400,
+   "em": 0.023571428571428573,
+   "em_strip": 0.025714285714285714,
+   "sim": 0.2615535679331904
+  },
+  "file_fim": {
+   "n": 744,
+   "em": 0.025537634408602152,
+   "em_strip": 0.028225806451612902,
+   "sim": 0.26039178472823704
+  },
+  "file_fim|SystemVerilog": {
+   "n": 3,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.4277128127750534
+  },
+  "repo_fim|Julia": {
+   "n": 4,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.3971787013024126
+  },
+  "repo_fim|TOML": {
+   "n": 10,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.22865874603671305
+  },
+  "file_fim|Java Server Pages": {
+   "n": 9,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.2987695853494972
+  },
+  "file_fim|Processing": {
+   "n": 6,
+   "em": 0.0,
+   "em_strip": 0.16666666666666666,
+   "sim": 0.2910216432554254
+  },
+  "file_fim|TSQL": {
+   "n": 5,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.38634280333087745
+  },
+  "file_fim|Batchfile": {
+   "n": 10,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.14171687884384707
+  },
+  "file_fim|YAML": {
+   "n": 6,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.24772021994773522
+  },
+  "file_fim|PLpgSQL": {
+   "n": 8,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.2257550211296262
+  },
+  "file_fim|MATLAB": {
+   "n": 10,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.23067214040604028
+  },
+  "repo_fim|Blade": {
+   "n": 5,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.43104064361445615
+  },
+  "repo_fim|SPARQL": {
+   "n": 2,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.3195844646440798
+  },
+  "file_fim|ShaderLab": {
+   "n": 3,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.11213486213486216
+  },
+  "repo_fim|C#": {
+   "n": 10,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.3225418657205353
+  },
+  "repo_fim|Markdown": {
+   "n": 4,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.15075060702318274
+  },
+  "file_fim|PlantUML": {
+   "n": 6,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.2201380298401959
+  },
+  "file_fim|Lua": {
+   "n": 7,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.21316905848143305
+  },
+  "file_fim|GDScript": {
+   "n": 7,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.2594624727881583
+  },
+  "file_fim|TypeScript": {
+   "n": 5,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.2043919546636938
+  },
+  "repo_fim|reStructuredText": {
+   "n": 5,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.15287197841983036
+  },
+  "repo_fim|AsciiDoc": {
+   "n": 6,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.14310606776677956
+  },
+  "repo_fim|HLSL": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.25
+  },
+  "file_fim|Fortran": {
+   "n": 2,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.055005081300813
+  },
+  "file_fim|AsciiDoc": {
+   "n": 8,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.2108698772858956
+  },
+  "repo_fim|HAProxy": {
+   "n": 2,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.04821697639377198
+  },
+  "file_fim|Swift": {
+   "n": 4,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.23897846899509873
+  },
+  "repo_fim|EditorConfig": {
+   "n": 7,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.3946322872973907
+  },
+  "repo_fim|Dockerfile": {
+   "n": 9,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.19070344704877418
+  },
+  "file_fim|Nginx": {
+   "n": 7,
+   "em": 0.14285714285714285,
+   "em_strip": 0.14285714285714285,
+   "sim": 0.27415028676408515
+  },
+  "file_fim|PowerShell": {
+   "n": 13,
+   "em": 0.07692307692307693,
+   "em_strip": 0.07692307692307693,
+   "sim": 0.3223598306736492
+  },
+  "repo_fim|Gradle Kotlin DSL": {
+   "n": 10,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.24293273793384365
+  },
+  "repo_fim|Sass": {
+   "n": 6,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.29967912916307
+  },
+  "repo_fim|Prisma": {
+   "n": 7,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.17744526467203908
+  },
+  "file_fim|Sass": {
+   "n": 7,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.29993611234212736
+  },
+  "file_fim|Handlebars": {
+   "n": 9,
+   "em": 0.1111111111111111,
+   "em_strip": 0.1111111111111111,
+   "sim": 0.3234530311589135
+  },
+  "repo_fim|Solidity": {
+   "n": 4,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.2388412096166894
+  },
+  "file_fim|HTML": {
+   "n": 10,
+   "em": 0.1,
+   "em_strip": 0.1,
+   "sim": 0.33952741910728623
+  },
+  "repo_fim|Protocol Buffer": {
+   "n": 5,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.3337218187725409
+  },
+  "file_fim|Elixir": {
+   "n": 6,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.27151657326339723
+  },
+  "file_fim|Svelte": {
+   "n": 9,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.15213925229983222
+  },
+  "repo_fim|Nginx": {
+   "n": 8,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.16934341322928279
+  },
+  "file_fim|Haskell": {
+   "n": 2,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.26098095957827216
+  },
+  "repo_fim|JSON": {
+   "n": 5,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.26259766592211664
+  },
+  "file_fim|Jinja": {
+   "n": 11,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.12628417384122956
+  },
+  "repo_fim|PLpgSQL": {
+   "n": 2,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.041666666666666685
+  },
+  "file_fim|Python": {
+   "n": 8,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.17966918248364333
+  },
+  "file_fim|Liquid": {
+   "n": 3,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.15534963795635223
+  },
+  "repo_fim|Assembly": {
+   "n": 6,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.12651165889234703
+  },
+  "file_fim|OCaml": {
+   "n": 2,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.23857526881720426
+  },
+  "file_fim|XML": {
+   "n": 6,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.3366049608249097
+  },
+  "repo_fim|Svelte": {
+   "n": 6,
+   "em": 0.16666666666666666,
+   "em_strip": 0.16666666666666666,
+   "sim": 0.3886912470245804
+  },
+  "repo_fim|Kotlin": {
+   "n": 9,
+   "em": 0.2222222222222222,
+   "em_strip": 0.3333333333333333,
+   "sim": 0.6842279172914424
+  },
+  "file_fim|INI": {
+   "n": 8,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.2624641711964528
+  },
+  "file_fim|Prisma": {
+   "n": 9,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.28277565020654927
+  },
+  "file_fim|MQL5": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.2085106382978723
+  },
+  "repo_fim|Slim": {
+   "n": 3,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.1879979682047832
+  },
+  "repo_fim|Scala": {
+   "n": 5,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.15416239207044266
+  },
+  "file_fim|Pug": {
+   "n": 9,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.16180077785775066
+  },
+  "repo_fim|Org": {
+   "n": 3,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.14651826116794267
+  },
+  "file_fim|Cython": {
+   "n": 3,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.19956860266067478
+  },
+  "repo_fim|Shell": {
+   "n": 8,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.15731739291742353
+  },
+  "file_fim|HTTP": {
+   "n": 9,
+   "em": 0.0,
+   "em_strip": 0.1111111111111111,
+   "sim": 0.4560012481890967
+  },
+  "repo_fim|Smarty": {
+   "n": 8,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.41825433421219604
+  },
+  "repo_fim|C": {
+   "n": 5,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.19828631524156304
+  },
+  "file_fim|Emacs Lisp": {
+   "n": 3,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.17425925925925925
+  },
+  "file_fim|Erlang": {
+   "n": 3,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.3052280191676089
+  },
+  "repo_fim|MDX": {
+   "n": 6,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.14560863004995814
+  },
+  "repo_fim|PHP": {
+   "n": 9,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.3309181941877657
+  },
+  "repo_fim|MATLAB": {
+   "n": 5,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.12121799726561211
+  },
+  "repo_fim|RPM Spec": {
+   "n": 4,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.07527578415736311
+  },
+  "repo_fim|Go": {
+   "n": 6,
+   "em": 0.16666666666666666,
+   "em_strip": 0.16666666666666666,
+   "sim": 0.33172687054602273
+  },
+  "file_fim|Game Maker Language": {
+   "n": 3,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.4779202279202279
+  },
+  "file_fim|JSON with Comments": {
+   "n": 10,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.25016191044417846
+  },
+  "file_fim|Nix": {
+   "n": 9,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.18693977413463905
+  },
+  "repo_fim|Hack": {
+   "n": 8,
+   "em": 0.125,
+   "em_strip": 0.125,
+   "sim": 0.4970812700921756
+  },
+  "repo_fim|TSX": {
+   "n": 6,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.36208951054415195
+  },
+  "repo_fim|PowerShell": {
+   "n": 8,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.16942156464020258
+  },
+  "file_fim|Gradle Kotlin DSL": {
+   "n": 9,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.2893756308788973
+  },
+  "repo_fim|ActionScript": {
+   "n": 2,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.10766836445953593
+  },
+  "file_fim|QML": {
+   "n": 2,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.1870313801721744
+  },
+  "file_fim|Astro": {
+   "n": 7,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.32639605378801295
+  },
+  "repo_fim|ApacheConf": {
+   "n": 5,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.10523749379943133
+  },
+  "repo_fim|Clojure": {
+   "n": 2,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.2844387755102041
+  },
+  "file_fim|GLSL": {
+   "n": 6,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.26514464025095313
+  },
+  "repo_fim|Java": {
+   "n": 10,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.35327335875210264
+  },
+  "repo_fim|Swift": {
+   "n": 8,
+   "em": 0.125,
+   "em_strip": 0.125,
+   "sim": 0.43439999010550745
+  },
+  "repo_fim|Java Server Pages": {
+   "n": 7,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.3112758375935131
+  },
+  "repo_fim|Scheme": {
+   "n": 3,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.4046995108315863
+  },
+  "file_fim|Gradle": {
+   "n": 11,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.21728288543905955
+  },
+  "repo_fim|GDScript": {
+   "n": 9,
+   "em": 0.1111111111111111,
+   "em_strip": 0.1111111111111111,
+   "sim": 0.2473947211664044
+  },
+  "repo_fim|Game Maker Language": {
+   "n": 6,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.19096487847152674
+  },
+  "file_fim|Kotlin": {
+   "n": 10,
+   "em": 0.1,
+   "em_strip": 0.1,
+   "sim": 0.3487093061157968
+  },
+  "file_fim|Vue": {
+   "n": 7,
+   "em": 0.14285714285714285,
+   "em_strip": 0.14285714285714285,
+   "sim": 0.43200577274773694
+  },
+  "repo_fim|JSON with Comments": {
+   "n": 10,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.2857102134030132
+  },
+  "file_fim|Scala": {
+   "n": 7,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.23599891498189102
+  },
+  "file_fim|JSON": {
+   "n": 10,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.37761622341157886
+  },
+  "file_fim|Rust": {
+   "n": 9,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.2607140248979619
+  },
+  "file_fim|R": {
+   "n": 5,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.09872918244842441
+  },
+  "file_fim|D": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.08695652173913049
+  },
+  "file_fim|Objective-C": {
+   "n": 4,
+   "em": 0.25,
+   "em_strip": 0.25,
+   "sim": 0.4006215949150732
+  },
+  "file_fim|Twig": {
+   "n": 6,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.30126100385516696
+  },
+  "repo_fim|CMake": {
+   "n": 8,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.1620575201867254
+  },
+  "file_fim|TeX": {
+   "n": 6,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.11955059161167787
+  },
+  "repo_fim|Prolog": {
+   "n": 4,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.1628791162316648
+  },
+  "file_fim|Gherkin": {
+   "n": 11,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.2690721120215878
+  },
+  "file_fim|JavaScript": {
+   "n": 9,
+   "em": 0.1111111111111111,
+   "em_strip": 0.1111111111111111,
+   "sim": 0.3007428424121706
+  },
+  "file_fim|Hack": {
+   "n": 7,
+   "em": 0.14285714285714285,
+   "em_strip": 0.14285714285714285,
+   "sim": 0.4486321506677103
+  },
+  "repo_fim|Typst": {
+   "n": 3,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.18219516355138599
+  },
+  "file_fim|Graphviz (DOT)": {
+   "n": 4,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.22005121222295454
+  },
+  "file_fim|Dockerfile": {
+   "n": 8,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.26816998613451665
+  },
+  "file_fim|Tcsh": {
+   "n": 3,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.15145502645502643
+  },
+  "repo_fim|Graphviz (DOT)": {
+   "n": 2,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.4309301045679692
+  },
+  "file_fim|EditorConfig": {
+   "n": 9,
+   "em": 0.1111111111111111,
+   "em_strip": 0.1111111111111111,
+   "sim": 0.3929889020043513
+  },
+  "repo_fim|GLSL": {
+   "n": 8,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.14155301687938096
+  },
+  "repo_fim|Inno Setup": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.23529411764705888
+  },
+  "repo_fim|HCL": {
+   "n": 6,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.28027941271922524
+  },
+  "repo_fim|EJS": {
+   "n": 6,
+   "em": 0.16666666666666666,
+   "em_strip": 0.16666666666666666,
+   "sim": 0.2853190336636217
+  },
+  "file_fim|CSS": {
+   "n": 7,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.41966758737642834
+  },
+  "file_fim|Typst": {
+   "n": 2,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.30125794535591865
+  },
+  "repo_fim|Handlebars": {
+   "n": 7,
+   "em": 0.14285714285714285,
+   "em_strip": 0.14285714285714285,
+   "sim": 0.35147644476240913
+  },
+  "file_fim|Shell": {
+   "n": 8,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.1763602802099775
+  },
+  "file_fim|BibTeX": {
+   "n": 4,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.31186868686868685
+  },
+  "file_fim|WebAssembly": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.0
+  },
+  "repo_fim|Gherkin": {
+   "n": 9,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.3041825161970269
+  },
+  "repo_fim|Haskell": {
+   "n": 8,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.20851369706926362
+  },
+  "file_fim|GraphQL": {
+   "n": 7,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.27437884208085983
+  },
+  "repo_fim|Makefile": {
+   "n": 9,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.2670947021966653
+  },
+  "repo_fim|Crystal": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.10569105691056913
+  },
+  "file_fim|Protocol Buffer": {
+   "n": 6,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.3213253086333891
+  },
+  "file_fim|Dart": {
+   "n": 8,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.28941764241923734
+  },
+  "repo_fim|ANTLR": {
+   "n": 3,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.1548248368749782
+  },
+  "repo_fim|Less": {
+   "n": 2,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.21337126600284495
+  },
+  "repo_fim|TypeScript": {
+   "n": 9,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.2730944544709851
+  },
+  "repo_fim|HTML+ERB": {
+   "n": 8,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.23457838728017122
+  },
+  "file_fim|Markdown": {
+   "n": 9,
+   "em": 0.1111111111111111,
+   "em_strip": 0.1111111111111111,
+   "sim": 0.2943929673536205
+  },
+  "repo_fim|JavaScript": {
+   "n": 6,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.23307475002078015
+  },
+  "repo_fim|R": {
+   "n": 4,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.2306998556998557
+  },
+  "repo_fim|Pug": {
+   "n": 8,
+   "em": 0.125,
+   "em_strip": 0.125,
+   "sim": 0.2916551333782783
+  },
+  "file_fim|JSON5": {
+   "n": 6,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.2368396249420658
+  },
+  "repo_fim|Rust": {
+   "n": 5,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.3675193906974494
+  },
+  "repo_fim|Elixir": {
+   "n": 6,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.3256373522487259
+  },
+  "repo_fim|Vue": {
+   "n": 2,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.5330656185919344
+  },
+  "repo_fim|RobotFramework": {
+   "n": 3,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.08022130013831259
+  },
+  "repo_fim|RMarkdown": {
+   "n": 4,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.17863472433405744
+  },
+  "file_fim|Ruby": {
+   "n": 11,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.19818247383547802
+  },
+  "repo_fim|JSON5": {
+   "n": 3,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.23733921729611385
+  },
+  "file_fim|VBA": {
+   "n": 2,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.2576612903225806
+  },
+  "repo_fim|QML": {
+   "n": 4,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.42902303702317524
+  },
+  "file_fim|RMarkdown": {
+   "n": 6,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.16886719380937695
+  },
+  "repo_fim|Mustache": {
+   "n": 6,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.16844330739053293
+  },
+  "repo_fim|INI": {
+   "n": 8,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.1906597582327372
+  },
+  "file_fim|reStructuredText": {
+   "n": 6,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.14435100241272047
+  },
+  "file_fim|Vim Script": {
+   "n": 5,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.0822108262207872
+  },
+  "file_fim|Smarty": {
+   "n": 10,
+   "em": 0.2,
+   "em_strip": 0.2,
+   "sim": 0.33702789210669265
+  },
+  "file_fim|Haxe": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.06211180124223603
+  },
+  "repo_fim|PlantUML": {
+   "n": 8,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.2583594703251404
+  },
+  "file_fim|EJS": {
+   "n": 5,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.16320086126537742
+  },
+  "file_fim|Mustache": {
+   "n": 6,
+   "em": 0.16666666666666666,
+   "em_strip": 0.16666666666666666,
+   "sim": 0.31863904844959784
+  },
+  "file_fim|MDX": {
+   "n": 7,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.17645333713302927
+  },
+  "file_fim|F#": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.29151291512915134
+  },
+  "file_fim|Less": {
+   "n": 6,
+   "em": 0.16666666666666666,
+   "em_strip": 0.16666666666666666,
+   "sim": 0.35720285442041594
+  },
+  "file_fim|Makefile": {
+   "n": 8,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.2629111120015971
+  },
+  "file_fim|Apex": {
+   "n": 4,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.14538835174093118
+  },
+  "repo_fim|YAML": {
+   "n": 7,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.25497243262773034
+  },
+  "file_fim|ApacheConf": {
+   "n": 7,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.24389680368017572
+  },
+  "repo_fim|Groovy": {
+   "n": 5,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.2395514167552161
+  },
+  "repo_fim|Nix": {
+   "n": 8,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.1762294004422607
+  },
+  "repo_fim|Emacs Lisp": {
+   "n": 3,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.26780905942222477
+  },
+  "repo_fim|Jinja": {
+   "n": 8,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.23818930868386648
+  },
+  "file_fim|Solidity": {
+   "n": 9,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.17830548349058573
+  },
+  "repo_fim|Tcl": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.19999999999999996
+  },
+  "file_fim|C#": {
+   "n": 8,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.2882530981356599
+  },
+  "file_fim|Verilog": {
+   "n": 5,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.33655047799429966
+  },
+  "file_fim|Assembly": {
+   "n": 6,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.2612519531706958
+  },
+  "repo_fim|C++": {
+   "n": 4,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.4258657150409728
+  },
+  "file_fim|Groovy": {
+   "n": 6,
+   "em": 0.16666666666666666,
+   "em_strip": 0.16666666666666666,
+   "sim": 0.3335432033291433
+  },
+  "file_fim|Tcl": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.03508771929824561
+  },
+  "file_fim|Go": {
+   "n": 9,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.2991287876911721
+  },
+  "file_fim|TSX": {
+   "n": 9,
+   "em": 0.1111111111111111,
+   "em_strip": 0.1111111111111111,
+   "sim": 0.31407035852157894
+  },
+  "file_fim|RPM Spec": {
+   "n": 10,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.10237937987294568
+  },
+  "repo_fim|CSS": {
+   "n": 4,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.0626277780206825
+  },
+  "repo_fim|Gradle": {
+   "n": 7,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.1899929151166135
+  },
+  "repo_fim|XSLT": {
+   "n": 2,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.27419354838709675
+  },
+  "file_fim|CMake": {
+   "n": 10,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.2408931012423111
+  },
+  "repo_fim|Verilog": {
+   "n": 7,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.20821851860062265
+  },
+  "file_fim|Starlark": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.33333333333333337
+  },
+  "file_fim|Org": {
+   "n": 5,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.08331014835637407
+  },
+  "file_fim|TOML": {
+   "n": 6,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.2730002447310332
+  },
+  "repo_fim|HTTP": {
+   "n": 9,
+   "em": 0.1111111111111111,
+   "em_strip": 0.1111111111111111,
+   "sim": 0.4172606730776155
+  },
+  "repo_fim|Astro": {
+   "n": 4,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.21677562329859773
+  },
+  "repo_fim|BibTeX": {
+   "n": 4,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.24899928342262342
+  },
+  "file_fim|HAProxy": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.05882352941176472
+  },
+  "file_fim|OpenSCAD": {
+   "n": 2,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.12230646448523541
+  },
+  "repo_fim|XML": {
+   "n": 10,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.18178261930762754
+  },
+  "file_fim|C": {
+   "n": 7,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.3283310973088284
+  },
+  "repo_fim|Batchfile": {
+   "n": 10,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.2159015217989988
+  },
+  "repo_fim|SCSS": {
+   "n": 7,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.3102440633469699
+  },
+  "repo_fim|PLSQL": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.15671641791044777
+  },
+  "file_fim|SCSS": {
+   "n": 6,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.14632450475052178
+  },
+  "repo_fim|Apex": {
+   "n": 3,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.20704516333322598
+  },
+  "file_fim|mcfunction": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.25806451612903225
+  },
+  "repo_fim|Perl": {
+   "n": 3,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.038476840011366864
+  },
+  "repo_fim|Cython": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.277992277992278
+  },
+  "repo_fim|Processing": {
+   "n": 4,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.2528829877274651
+  },
+  "file_fim|PHP": {
+   "n": 7,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.386352909574616
+  },
+  "file_fim|Common Lisp": {
+   "n": 2,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.12892106967706118
+  },
+  "repo_fim|Objective-C": {
+   "n": 5,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.25724146401628645
+  },
+  "repo_fim|ShaderLab": {
+   "n": 3,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.20661469059527313
+  },
+  "file_fim|C++": {
+   "n": 6,
+   "em": 0.16666666666666666,
+   "em_strip": 0.16666666666666666,
+   "sim": 0.2671261766643293
+  },
+  "file_fim|Blade": {
+   "n": 7,
+   "em": 0.14285714285714285,
+   "em_strip": 0.14285714285714285,
+   "sim": 0.4190463300976394
+  },
+  "repo_fim|HTML": {
+   "n": 7,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.36763324352610066
+  },
+  "repo_fim|Twig": {
+   "n": 8,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.29195150319696117
+  },
+  "file_fim|Scheme": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.7653631284916201
+  },
+  "file_fim|Clojure": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.11538461538461542
+  },
+  "file_fim|PDDL": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.2666666666666667
+  },
+  "file_fim|Prolog": {
+   "n": 3,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.16988515836442106
+  },
+  "file_fim|Elm": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.0
+  },
+  "file_fim|Julia": {
+   "n": 3,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.4023721827589231
+  },
+  "file_fim|Odin": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.13559322033898302
+  },
+  "repo_fim|SystemVerilog": {
+   "n": 3,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.3162381362212819
+  },
+  "repo_fim|Ruby": {
+   "n": 6,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.2964127211371306
+  },
+  "file_fim|Perl": {
+   "n": 3,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.12498547827343305
+  },
+  "repo_fim|Vim Script": {
+   "n": 5,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.11010637332934903
+  },
+  "file_fim|RobotFramework": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.22580645161290325
+  },
+  "repo_fim|mcfunction": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.1875
+  },
+  "repo_fim|AutoIt": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.006756756756756799
+  },
+  "file_fim|SQL": {
+   "n": 4,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.2813619979732937
+  },
+  "file_fim|DM": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.21875
+  },
+  "repo_fim|Liquid": {
+   "n": 4,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.27035573122529644
+  },
+  "file_fim|HCL": {
+   "n": 11,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.306155826168615
+  },
+  "file_fim|XSLT": {
+   "n": 2,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.3694556451612903
+  },
+  "repo_fim|Dart": {
+   "n": 6,
+   "em": 0.16666666666666666,
+   "em_strip": 0.16666666666666666,
+   "sim": 0.4463866548023871
+  },
+  "repo_fim|SQL": {
+   "n": 3,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.12502776959054143
+  },
+  "repo_fim|OCaml": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.6
+  },
+  "file_fim|Fortran Free Form": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.75
+  },
+  "file_fim|Java": {
+   "n": 8,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.17070894676565024
+  },
+  "repo_fim|F#": {
+   "n": 3,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.37822553263729736
+  },
+  "repo_fim|Common Lisp": {
+   "n": 2,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.2142857142857143
+  },
+  "repo_fim|Smalltalk": {
+   "n": 3,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.18024733507833543
+  },
+  "file_fim|Smalltalk": {
+   "n": 2,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.15157232704402512
+  },
+  "file_fim|Mathematica": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.21875
+  },
+  "file_fim|Stylus": {
+   "n": 2,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.09405940594059403
+  },
+  "repo_fim|Tcsh": {
+   "n": 3,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.1088459563035834
+  },
+  "repo_fim|Lua": {
+   "n": 4,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.11350729205289825
+  },
+  "repo_fim|VHDL": {
+   "n": 2,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.04563492063492064
+  },
+  "file_fim|HTML+ERB": {
+   "n": 4,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.2869973957834998
+  },
+  "file_fim|ANTLR": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.16153846153846152
+  },
+  "repo_fim|D": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.2857142857142857
+  },
+  "file_fim|Nextflow": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.0
+  },
+  "repo_fim|Python": {
+   "n": 5,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.2143530745067058
+  },
+  "repo_fim|Standard ML": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.3589743589743589
+  },
+  "repo_fim|VBA": {
+   "n": 1,
+   "em": 1.0,
+   "em_strip": 1.0,
+   "sim": 1.0
+  },
+  "file_fim|PLSQL": {
+   "n": 3,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.3575623343065204
+  },
+  "repo_fim|Forth": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.09999999999999998
+  },
+  "repo_fim|TSQL": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.6666666666666667
+  },
+  "file_fim|VHDL": {
+   "n": 4,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.24214247291170368
+  },
+  "file_fim|Dafny": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.0
+  },
+  "file_fim|Slim": {
+   "n": 2,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.22165427509293678
+  },
+  "repo_fim|TeX": {
+   "n": 4,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.14287943534103612
+  },
+  "repo_fim|Rocq Prover": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.07692307692307687
+  },
+  "file_fim|Cuda": {
+   "n": 2,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.43947368421052635
+  },
+  "repo_fim|CAP CDS": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.2742616033755274
+  },
+  "repo_fim|Mathematica": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.03125
+  },
+  "repo_fim|Zig": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.8888888888888888
+  },
+  "repo_fim|Stylus": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.10624999999999996
+  },
+  "repo_fim|Objective-C++": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.36363636363636365
+  },
+  "repo_fim|Move": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.4
+  },
+  "repo_fim|Luau": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.033333333333333326
+  },
+  "repo_fim|Starlark": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.0
+  },
+  "repo_fim|PDDL": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.30000000000000004
+  },
+  "file_fim|Modelica": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.19047619047619047
+  },
+  "repo_fim|CoffeeScript": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.26262626262626265
+  },
+  "file_fim|CAP CDS": {
+   "n": 1,
+   "em": 0.0,
+   "em_strip": 0.0,
+   "sim": 0.21501706484641636
+  }
+ },
+ "fim_examples": [
+  {
+   "lang": "GraphQL",
+   "shape": "repo_fim",
+   "prefix_tail": "extend type Mutation {\n    createOrder(orderDetails: [OrderDetailInput]!): Order!\n}\n\ntype Order {\n    id: ID!,\n    creationDate: DateTime\n    orderDetails: [Ord",
+   "want": "erDetail]!",
+   "got": "eateDate!"
+  },
+  {
+   "lang": "SystemVerilog",
+   "shape": "file_fim",
+   "prefix_tail": "<= 8'd9;\n        @(posedge clk);\n        x <= 8'd10;\n        @(posedge clk);\n        x <= 8'd11;\n        @(posedge clk);\n        x <= 8'd12;\n        @(posedge c",
+   "want": "lk);",
+   "got": "eck);"
+  },
+  {
+   "lang": "Julia",
+   "shape": "repo_fim",
+   "prefix_tail": "  delimeter = \",\";\n    pattern = r\"\\B(?=(\\d{3})+(?!\\d))\";\n    # convert each number to a string with thousands separators (e.g. 100,000)\n    return map(x -> rep",
+   "want": "lace(string(x), pattern => delimeter), numbers);\nend\n\nstart = time_ms();\nrandom_numbers(1000000);",
+   "got": "t(numbers));"
+  },
+  {
+   "lang": "TOML",
+   "shape": "repo_fim",
+   "prefix_tail": "# wrangler.toml (\u7b80\u5316\u7248)\n\nname = \"my-shortener-backend\"\nmain = \"src/index.js\"\ncompatibility_date = \"2025-06-24\"\n\n# \u5173\u952e\u6539\u52a8\uff1a",
+   "want": "\u5c06D1\u7ed1\u5b9a\u6362\u56deKV\u7ed1\u5b9a",
+   "got": "\n"
+  },
+  {
+   "lang": "Java Server Pages",
+   "shape": "file_fim",
+   "prefix_tail": " (thongBao != null && thongBao.trim().length() > 0) {\n            alert(thongBao);\n        }\n    </script>\n    \n</head>\n\n<div class ='content'>\n <div class=\"con",
+   "want": "tainer\">",
+   "got": "xt-container\">"
+  },
+  {
+   "lang": "Java Server Pages",
+   "shape": "file_fim",
+   "prefix_tail": "   <script src=\"assets/js/login.js\"></script>\n</head>\n<body>\n<div class=\"container\">\n    <%-- Show error message if exists --%>\n    <%\n        String error = (S",
+   "want": "tring) request.getAttribute(\"error\");\n        if (error != null) {\n    %>\n    <div class=\"error-message\"><%= error %></div>\n    <%\n        }\n    %>\n\n    <!-- Go",
+   "got": "tent.getElement(\"error\") != null ? error : error.getText()) {\n            error = \"Invalid username or password\";\n        }\n    %>\n\n    <div class=\"login-contai"
+  },
+  {
+   "lang": "Processing",
+   "shape": "file_fim",
+   "prefix_tail": "/* \n PROCESSINGJS.COM HEADER ANIMATION  \n MIT License - F1lT3R/Hyper-Metrix\n Modifed by <NAME>, 7 Nov 2013\n Native ",
+   "want": "Processing Compatible ",
+   "got": "-E56498"
+  },
+  {
+   "lang": "TSQL",
+   "shape": "file_fim",
+   "prefix_tail": " \n IF EXISTS (SELECT NAME FROM SYS.TABLES WHERE NAME = 'TESTDATA')\n\tDROP TABLE TESTDATA\nGO\n create t",
+   "want": "able testdata ( \n\tID INT IDENTITY(1,1)\n\t,RUNDATE DATETIME2\n\t,CONSTRAINT PK_TESTDATA  PRIMARY KEY CLUSTERED (ID)\n",
+   "got": "ooks\n\tSELECT * \nFROM testdata\nWHERE RUNDATE < DATEADD(SECOND, -1 , GETDATE() ) \nAND RUNDATE < DATEADD(SECOND, -1 , GETDATE() ) \nAND RUNDATE < DATEADD(SECOND, -1"
+  },
+  {
+   "lang": "Batchfile",
+   "shape": "file_fim",
+   "prefix_tail": "@echo off\nsremulator.exe result-statistics --w",
+   "want": "arp-name sunday -",
+   "got": "e-directory /s /i"
+  },
+  {
+   "lang": "YAML",
+   "shape": "file_fim",
+   "prefix_tail": "model:\r\n  target: Models.interpretable_diffusion.FMTS.FM_TS\r\n  params:\r\n    seq_length: 4000          # \u2605 \u7a97\u53e3\u957f\u5ea6\u6539\u591f\u5927\uff0c\u5426\u5219\u653e\u4e0d\u4e0b",
+   "want": " 1 000 \u7f3a\u53e3\r",
+   "got": "000\r"
+  },
+  {
+   "lang": "PLpgSQL",
+   "shape": "file_fim",
+   "prefix_tail": "omer_id;\n   \n    select c.city, count(s.customer_id) as \"customer_count\", count(s.product_id) as \"product_count\", \n\tsum(s.sales) as \"total_sales\", sum(s.quantit",
+   "want": "y) as \"total_quantity\", sum(s.discount) as \"total_discount\",",
+   "got": "e_count) as \"total_sales\", sum(s.quantity), sum(s.discount), sum(s.profit) from  sales as s\ninner join customer as c\non s.customer_id = c.customer_id\nwhere c.ci"
+  },
+  {
+   "lang": "MATLAB",
+   "shape": "file_fim",
+   "prefix_tail": "fid = fopen('images.txt','r'); \nimages = textscan(fid, '%s', 'delimiter', '\\n');\nfclose(fid);\nimages = images{1};\n\n%}\n\n\n% Define the path to the image sequence\n",
+   "want": "%datadir = '../../data/';\n%dataset = 'OTB2015/Bird1';\n%path = fullfile(datadir, dataset);\nimg_path = fullfile(datadir, 'img');\nD = dir(fullfile(img_path, '*.jpg",
+   "got": "% read the image file\n% \n% \n% \n% \n% \n% \n% \n% \n% \n% \n% \n% \n% \n% \n% \n% \n% \n% \n% \n%"
+  }
+ ],
+ "bpb": {
+  "ours_fresh": 0.628977348299671,
+  "ours_stale": 0.6281461097337918,
+  "ours_fresh_advantage": -0.0008312385658791888,
+  "base_fresh_advantage": 0
+ },
+ "latency": {
+  "ms_at_16": 94.89116668701172,
+  "ms_at_64": 103.13448905944824,
+  "ms_at_128": 98.3497142791748
+ }
+}

@@ -1,0 +1,7 @@
+{
+ "prompt_tokens": 1534,
+ "gguf": "fimcoder-113m-q8_0.gguf",
+ "ms_at_16": 2288,
+ "ms_at_48": 2523,
+ "ms_at_96": 2866
+}

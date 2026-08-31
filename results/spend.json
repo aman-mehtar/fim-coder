@@ -1,0 +1,117 @@
+[
+ {
+  "label": "ACTUALS to 08:55 (Modal dashboard)",
+  "gpu": null,
+  "secs": 0,
+  "n": 1,
+  "cost": 7.0,
+  "at": "08:55:00",
+  "note": "build 4.47 / smoke 1.07 / probe 0.37 / gpu-probe 0.06 / rest 0.09 + storage"
+ },
+ {
+  "gpu": "L4",
+  "cpu": 2.0,
+  "mem": 12.0,
+  "secs": 560.0,
+  "overhead": 1.0,
+  "cost": 0.1539,
+  "label": "train-validate",
+  "at": "09:08:24"
+ },
+ {
+  "gpu": "L4",
+  "cpu": 2.0,
+  "mem": 12.0,
+  "secs": 200.0,
+  "overhead": 1.0,
+  "cost": 0.055,
+  "label": "train-validate-resume",
+  "at": "09:11:44"
+ },
+ {
+  "gpu": "L4",
+  "gpus": 4,
+  "cpu": 4.0,
+  "mem": 16.0,
+  "secs": 1420.0,
+  "overhead": 1.0,
+  "cost": 1.3858,
+  "label": "train-oom-attempt",
+  "at": "09:37:44"
+ },
+ {
+  "gpu": "L4",
+  "cpu": 3.0,
+  "mem": 20.0,
+  "secs": 600.0,
+  "overhead": 1.0,
+  "cost": 0.1834,
+  "label": "eval-smoke",
+  "at": "10:05:23"
+ },
+ {
+  "gpu": "L4",
+  "cpu": 2.0,
+  "mem": 8.0,
+  "secs": 700.0,
+  "overhead": 1.0,
+  "cost": 0.1862,
+  "label": "serve-deploy-tests",
+  "at": "10:21:42"
+ },
+ {
+  "gpu": "L4",
+  "cpu": 3.0,
+  "mem": 20.0,
+  "secs": 420.0,
+  "overhead": 1.0,
+  "cost": 0.1284,
+  "label": "eval-baseline-test",
+  "at": "10:26:57"
+ },
+ {
+  "cpu": 4.0,
+  "mem": 16.0,
+  "secs": 240.0,
+  "cost": 0.0274,
+  "label": "eval-samples",
+  "at": "10:58:45"
+ },
+ {
+  "cpu": 4.0,
+  "mem": 16.0,
+  "secs": 260.0,
+  "cost": 0.0297,
+  "label": "eval-samples-320",
+  "at": "11:39:58"
+ },
+ {
+  "gpu": "L4",
+  "gpus": 4,
+  "cpu": 4.0,
+  "mem": 16.0,
+  "secs": 16805,
+  "overhead": 1.0,
+  "cost": 16.4003,
+  "label": "fimcoder-113m",
+  "at": "14:16:35"
+ },
+ {
+  "gpu": "L4",
+  "cpu": 2.0,
+  "mem": 8.0,
+  "secs": 400.0,
+  "overhead": 1.0,
+  "cost": 0.1064,
+  "label": "serve-redeploy-real",
+  "at": "17:36:28"
+ },
+ {
+  "cpu": 0.125,
+  "mem": 0.25,
+  "secs": 0.0,
+  "cost": 0.0,
+  "label": "fim-eval-local-cpu",
+  "at": "17:36:28"
+ }
+]
